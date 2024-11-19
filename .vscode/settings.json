@@ -11,7 +11,7 @@
                 "author": "MaiZLnuaa <mai-zl@nuaa.edu.cn>",
                 "date": {
                     "type": "createTime",
-                    "format": "YYYY/MM/DD HH:mm:ss",
+                    "format": "yyyy/MM/dd HH:mm:ss",
                 },
                 "license": "MIT",
                 "description": "",
