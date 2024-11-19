@@ -1,0 +1,20 @@
+{
+    
+        "autoHeader": {
+            "format": {
+                "startWith": "#=",
+                "middleWith": "",
+                "endWith": "=#",
+                "headerPrefix": "@",
+            },
+            "header": {
+                "author": "MaiZLnuaa <mai-zl@nuaa.edu.cn>",
+                "date": {
+                    "type": "createTime",
+                    "format": "YYYY/MM/DD HH:mm:ss",
+                },
+                "license": "MIT",
+                "description": "",
+            }
+        },
+}
