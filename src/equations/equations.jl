@@ -535,6 +535,7 @@ abstract type AbstractLinearizedEulerEquations{NDIMS, NVARS} <:
 include("linearized_euler_1d.jl")
 include("linearized_euler_2d.jl")
 include("linearized_euler_3d.jl")
+include("develop_linearied_euler_1d.jl")
 
 abstract type AbstractEquationsParabolic{NDIMS, NVARS, GradientVariables} <:
               AbstractEquations{NDIMS, NVARS} end

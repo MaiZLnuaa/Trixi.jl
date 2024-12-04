@@ -148,6 +148,18 @@ include("visualization/visualization.jl")
 
 # export types/functions that define the public API of Trixi.jl
 
+#=
+ *  @File          Trixi.jl
+ *
+ *  @Author        MaiZLnuaa <mai-zl@nuaa.edu.cn>
+ *  @Date          Tue Dec 03 2024 6:12:36 PM
+ *
+ *  @Description   modify export
+ =#
+
+
+export develop_LinearizedEulerEquations1D
+
 export AcousticPerturbationEquations2D,
        CompressibleEulerEquations1D, CompressibleEulerEquations2D,
        CompressibleEulerEquations3D,
